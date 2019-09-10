@@ -14,3 +14,10 @@ Takes output.txt and picks a giveaway winner
 ```pip install pyfiglet```
 
 ```python pick.py```
+
+## Txt version Usage
+Takes input.txt of line-separated names and picks a giveaway winner
+
+```pip install pyfiglet```
+
+```python pick2.py```
